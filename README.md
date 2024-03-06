@@ -1,1 +1,1 @@
-# -SQL_Diabetes-Prediction
+# SQL_Diabetes-Prediction
